@@ -1,1 +1,1 @@
-# 2023 Fall NYCU Deep Learning
+# Fall 2023 NYCU Deep Learning
